@@ -14,7 +14,7 @@ int main(){
 
     do{
         xatu = (in+np)/2;
-        aux = ; //descobre qual é o nosso exercício, é só colocar a função aqui nessa linha
+        aux = ; //descobre qual Ã© o nosso exercÃ­cio, Ã© sÃ³ colocar a funÃ§Ã£o aqui nessa linha
         if(aux<0){
             in = xatu;
         }else{
